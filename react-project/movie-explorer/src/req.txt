@@ -1,0 +1,7 @@
+// api key 534dde685d2da2b19a1fddb2c749f579
+// api read access token - eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MzRkZGU2ODVkMmRhMmIxOWExZmRkYjJjNzQ5ZjU3OSIsIm5iZiI6MTc0OTU4NjIzNS43Miwic3ViIjoiNjg0ODkxM2I3MGQ0OTM5YWIwM2UwNmJjIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.MM_ODj8uLyTpAtlD7dXR2derBJfu_iqFvthxgYpGTII
+// requirements
+// You shall use the TMDB logo to identify your use of the TMDB APIs. You shall place the following notice prominently on your application: "This product uses the TMDB API but is not endorsed or certified by TMDB."
+// curl --request GET \
+    //  --url 'https://api.themoviedb.org/3/movie/11' \
+    //  --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MzRkZGU2ODVkMmRhMmIxOWExZmRkYjJjNzQ5ZjU3OSIsIm5iZiI6MTc0OTU4NjIzNS43Miwic3ViIjoiNjg0ODkxM2I3MGQ0OTM5YWIwM2UwNmJjIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.MM_ODj8uLyTpAtlD7dXR2derBJfu_iqFvthxgYpGTII'

@@ -1,0 +1,5 @@
+// 1. clicking on the button generates the animals
+// 2. clicking on the animal increases the size of the heart besides each animal
+
+1. user clicks on the button- Add animal
+2. an animal image is generated when button is clicked
